@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+{{ partial "menu.html" . }}
+
+{{ partial "main_menu.html" . }}
+
+{{ partial "content" . }}
+
+<div class="project-content">
+    <div class="project-container all-projects">
+    {{ range sort $.Site.Data.projects "pushedAt" "desc" -}}
+    <div class="project-card" id="{{ .nameWithOwner }}">
+
+        <h1 class="project-name">{{ .name }}</h1>
+
+        <div class="border"{{ with .primaryLanguage }} style="border-bottom-color:{{ .color }}"{{ end }}></div>
+
+        <div class="project-description">{{ .descriptionHTML | safeHTML }}</div>
+
+        <p class="title">{{ .repositoryTopics }}</p>
+
+        <div class="whitespace"></div>
+
+        <div class="project-links">
+            <a href="https://github.com/{{ .nameWithOwner }}" target="_blank" rel="noopener">GitHub</a>
+            {{ with .homepageUrl }}<a href="{{ . }}" target="_blank" rel="noopener">Website</a>{{ end }}
+        </div>
+
+    </div>
+
+    {{ end }}
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
