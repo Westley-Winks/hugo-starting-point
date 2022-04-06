@@ -75,13 +75,8 @@ socialmarkup = true
 toc = true
 
 ## Main Menu
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 100
-    url = "/about/"
-[[menu.main]]
-    name = "projects"
-    identifier = "projects"
-    weight = 200
-    url = "/projects/"
+## [[menu.main]]
+##     name = "about"
+##     identifier = "about"
+##     weight = 100
+##     url = "/about/"
