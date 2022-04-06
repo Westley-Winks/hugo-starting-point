@@ -1,0 +1,67 @@
+/* Add custom CSS here. */
+:root {
+    --project-card-min-width: 385px;
+    --project-card-max-width: 500px;
+    --search-bar-width: 450px;
+  }
+
+  .project-container {
+      max-width: 1156px !important;
+      margin: 0 auto !important;
+  }
+
+  .project-content {
+      padding: 2rem 0 !important;
+  }
+
+  .all-projects {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .project-card {
+    /* position: relative; */
+    flex: 1 1;
+    padding: 4rem 6rem;
+    min-width: var(--project-card-min-width);
+  }
+
+  .border {
+    width: 300px;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+  }
+
+  .project-language {
+    color: #5B7083;
+    font-size: 0.7rem;
+    line-height: 1rem;
+  }
+
+  .project-links a {
+    display: block;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .project-links a:link, .project-links a:visited {
+    color: #526d7a;
+  }
+
+  .project-links a:hover, .project-links a:active {
+    color: #444;
+  }
+
+  .whitespace {
+    /* height: 0rem; */
+  }
+
+  .project-links {
+    position: absolute;
+  }
+
+  .project-card .Button {
+    position: absolute;
+    bottom: 2rem;
+    right: 3rem;
+  }
