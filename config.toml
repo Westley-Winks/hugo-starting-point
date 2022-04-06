@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "westley-winks.github.io/hugo-starting-point/"
+baseURL = "westley-winks.github.io/hugo-starting-point/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
