@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>westley-winks.github.io/hugo-starting-point/about/</loc>
+    <loc>https://westley-winks.github.io/hugo-starting-point/about/</loc>
+  </url><url>
+    <loc>https://westley-winks.github.io/hugo-starting-point/categories/</loc>
+  </url><url>
+    <loc>https://westley-winks.github.io/hugo-starting-point/</loc>
+  </url><url>
+    <loc>https://westley-winks.github.io/hugo-starting-point/projects/</loc>
+  </url><url>
+    <loc>https://westley-winks.github.io/hugo-starting-point/tags/</loc>
   </url>
-  
-  <url>
-    <loc>westley-winks.github.io/hugo-starting-point/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>westley-winks.github.io/hugo-starting-point/</loc>
-  </url>
-  
-  <url>
-    <loc>westley-winks.github.io/hugo-starting-point/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>westley-winks.github.io/hugo-starting-point/tags/</loc>
-  </url>
-  
 </urlset>
