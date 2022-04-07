@@ -1,13 +1,13 @@
 ## Basic Configuration
 
-baseURL = "westley-winks.github.io/hugo-starting-point/"
+baseURL = "https://westley-winks.github.io/hugo-starting-point"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
 
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
+## contentdir = "content"
+## layoutdir = "layouts"
+## publishdir = "public"
 
 author = "Name"
 title = "Name"
