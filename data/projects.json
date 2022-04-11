@@ -1,70 +1,50 @@
 {
-  "Westley-Winks/oregon-food-insecurity": {
-    "descriptionHTML": "<div>An analysis of food insecurity in Oregon in 2020 | WORK IN PROGRESS</div>",
-    "forkCount": 0,
-    "homepageUrl": "https://westley-winks.github.io/oregon-food-insecurity/",
+  "firstcontributions/Open-Source-Programs": {
+    "descriptionHTML": "<div>A list of open source programs.</div>",
+    "forkCount": 2,
+    "homepageUrl": "https://opensourceinternships.herokuapp.com/",
     "isPrivate": false,
-    "languages": "HTML",
-    "name": "oregon-food-insecurity",
-    "nameWithOwner": "Westley-Winks/oregon-food-insecurity",
+    "languages": "CSS JavaScript",
+    "name": "Open-Source-Programs",
+    "nameWithOwner": "firstcontributions/Open-Source-Programs",
     "primaryLanguage": {
-      "color": "#e34c26",
-      "name": "HTML"
+      "color": "#563d7c",
+      "name": "CSS"
     },
-    "pushedAt": "2021-12-01T01:23:15Z",
+    "pushedAt": "2022-03-27T11:02:31Z",
     "repositoryTopics": "",
-    "stargazers": 0,
-    "watchers": 1
+    "stargazers": 2,
+    "watchers": 0
   },
-  "Westley-Winks/solar-output": {
-    "descriptionHTML": "<div>Predicting actual solar panel energy output using machine learning.</div>",
-    "forkCount": 0,
-    "homepageUrl": "https://share.streamlit.io/westley-winks/solar-output/main",
+  "firstcontributions/first-contributions": {
+    "descriptionHTML": "<div>\n<g-emoji class=\"g-emoji\" alias=\"rocket\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f680.png\">\ud83d\ude80</g-emoji><g-emoji class=\"g-emoji\" alias=\"sparkles\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2728.png\">\u2728</g-emoji> Help beginners to contribute to open source projects</div>",
+    "forkCount": 43926,
+    "homepageUrl": "https://firstcontributions.github.io",
     "isPrivate": false,
-    "languages": "Jupyter Notebook",
-    "name": "solar-output",
-    "nameWithOwner": "Westley-Winks/solar-output",
-    "primaryLanguage": {
-      "color": "#DA5B0B",
-      "name": "Jupyter Notebook"
-    },
-    "pushedAt": "2022-01-24T18:36:43Z",
-    "repositoryTopics": "machine-learning scikit-learn solar",
-    "stargazers": 0,
-    "watchers": 1
+    "languages": "",
+    "name": "first-contributions",
+    "nameWithOwner": "firstcontributions/first-contributions",
+    "primaryLanguage": null,
+    "pushedAt": "2022-04-11T00:47:55Z",
+    "repositoryTopics": "open-source tutorial contribution community tutorials",
+    "stargazers": 22778,
+    "watchers": 462
   },
-  "Westley-Winks/tactile-paving-detector": {
-    "descriptionHTML": "<div>Detects tactile paving in images using deep learning</div>",
-    "forkCount": 1,
-    "homepageUrl": "",
+  "firstcontributions/firstcontributions.github.io": {
+    "descriptionHTML": "<div>Web app for First Contributions</div>",
+    "forkCount": 202,
+    "homepageUrl": "https://firstcontributions.github.io",
     "isPrivate": false,
-    "languages": "Jupyter Notebook",
-    "name": "tactile-paving-detector",
-    "nameWithOwner": "Westley-Winks/tactile-paving-detector",
+    "languages": "JavaScript CSS",
+    "name": "firstcontributions.github.io",
+    "nameWithOwner": "firstcontributions/firstcontributions.github.io",
     "primaryLanguage": {
-      "color": "#DA5B0B",
-      "name": "Jupyter Notebook"
+      "color": "#f1e05a",
+      "name": "JavaScript"
     },
-    "pushedAt": "2022-03-31T19:27:13Z",
-    "repositoryTopics": "deep-learning object-detection computer-vision",
-    "stargazers": 1,
-    "watchers": 1
-  },
-  "Westley-Winks/website": {
-    "descriptionHTML": "<div>Personal website</div>",
-    "forkCount": 0,
-    "homepageUrl": "https://westleywinks.com",
-    "isPrivate": false,
-    "languages": "SCSS HTML Python JavaScript",
-    "name": "website",
-    "nameWithOwner": "Westley-Winks/website",
-    "primaryLanguage": {
-      "color": "#c6538c",
-      "name": "SCSS"
-    },
-    "pushedAt": "2022-04-11T03:31:29Z",
-    "repositoryTopics": "hugo portfolio website",
-    "stargazers": 0,
-    "watchers": 1
+    "pushedAt": "2022-04-10T07:10:52Z",
+    "repositoryTopics": "",
+    "stargazers": 176,
+    "watchers": 7
   }
 }
