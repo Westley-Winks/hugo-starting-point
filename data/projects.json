@@ -18,21 +18,21 @@
   },
   "firstcontributions/first-contributions": {
     "descriptionHTML": "<div>\n<g-emoji class=\"g-emoji\" alias=\"rocket\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/1f680.png\">\ud83d\ude80</g-emoji><g-emoji class=\"g-emoji\" alias=\"sparkles\" fallback-src=\"https://github.githubassets.com/images/icons/emoji/unicode/2728.png\">\u2728</g-emoji> Help beginners to contribute to open source projects</div>",
-    "forkCount": 44050,
+    "forkCount": 44157,
     "homepageUrl": "https://firstcontributions.github.io",
     "isPrivate": false,
     "languages": "",
     "name": "first-contributions",
     "nameWithOwner": "firstcontributions/first-contributions",
     "primaryLanguage": null,
-    "pushedAt": "2022-04-18T02:40:07Z",
+    "pushedAt": "2022-04-25T02:38:55Z",
     "repositoryTopics": "open-source tutorial contribution community tutorials",
-    "stargazers": 22839,
+    "stargazers": 22911,
     "watchers": 462
   },
   "firstcontributions/firstcontributions.github.io": {
     "descriptionHTML": "<div>Web app for First Contributions</div>",
-    "forkCount": 202,
+    "forkCount": 203,
     "homepageUrl": "https://firstcontributions.github.io",
     "isPrivate": false,
     "languages": "JavaScript CSS",
@@ -44,7 +44,7 @@
     },
     "pushedAt": "2022-04-12T22:55:49Z",
     "repositoryTopics": "",
-    "stargazers": 178,
+    "stargazers": 179,
     "watchers": 7
   }
 }
